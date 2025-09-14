@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Blueberry Cafe",
+        "address": "123 Main Street, New York",
+        "rating": 4.5,
+        "photo": "images/blueberry.jpg"
+    },
+    {
+        "name": "Mocha Magic",
+        "address": "45 Coffee Lane, New York",
+        "rating": 4.2,
+        "photo": "images/mocha.jpg"
+    },
+    {
+        "name": "Brew & Bite",
+        "address": "78 Bean Boulevard, New York",
+        "rating": 4.8,
+        "photo": "images/brew.jpg"
+    }
+]
